@@ -2,7 +2,8 @@
 
 ## Fun Projects
 
-1. Using information theory to figure out the best starting guesses in Wordle.  [Wordle better with code (and a little math)](https://docs.google.com/presentation/d/1gkt_OCE6O3TcbdP1vEmrwHxkC7opjAI2g7cmMC8Pug4): presentation I'm still working on but hope to have ready to present soon.
+1. Using information theory to figure out the best starting guesses in Wordle.  
+    - [presentation](https://docs.google.com/presentation/d/1gkt_OCE6O3TcbdP1vEmrwHxkC7opjAI2g7cmMC8Pug4):  I'm still working on it but hope to have ready to present soon.
 2. Learning RxJS and using it to build a sliding tile puzzle game.
     - [presentation](https://docs.google.com/presentation/d/1SFe3PqXCgjVOxBlJhrsUpoDS2_vpniID/edit?usp=sharing&ouid=102963138023163497394)
     - [code](https://github.com/ramakocherlakota/shuffalo)
