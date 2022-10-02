@@ -1,6 +1,4 @@
-# Rama Kocherlakota
-
-## Fun Projects
+# Rama Kocherlakota - Side Projects
 
 1. Using information theory to figure out the best starting guesses in Wordle.  
     - [presentation](https://docs.google.com/presentation/d/1gkt_OCE6O3TcbdP1vEmrwHxkC7opjAI2g7cmMC8Pug4)
